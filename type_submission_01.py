@@ -20,3 +20,7 @@ for num in range(1, 101):
 
     # ここまで記述
     print(string)
+
+
+
+print('test')
