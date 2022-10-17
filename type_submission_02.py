@@ -36,3 +36,6 @@ def serch_index(sorted_array, target_number):
 
 if __name__ == '__main__':
     main()
+
+
+    print('test')
